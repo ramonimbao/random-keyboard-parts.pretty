@@ -427,10 +427,10 @@ $FPLIST
  Connector*:*_1x??_*
 $ENDFPLIST
 DRAW
-T 0 50 100 50 0 0 0 VBUS Normal 0 L C
-T 0 50 -100 50 0 1 1 D+ Normal 0 L C
-T 0 50 0 50 0 1 1 D- Normal 0 L C
-T 0 50 -200 50 0 1 1 GND Normal 0 L C
+T 0 100 100 50 0 0 0 VBUS Normal 0 C C
+T 0 100 -100 50 0 1 1 D+ Normal 0 C C
+T 0 100 0 50 0 1 1 D- Normal 0 C C
+T 0 100 -200 50 0 1 1 GND Normal 0 C C
 S -50 -195 0 -205 1 1 6 N
 S -50 -95 0 -105 1 1 6 N
 S -50 5 0 -5 1 1 6 N
