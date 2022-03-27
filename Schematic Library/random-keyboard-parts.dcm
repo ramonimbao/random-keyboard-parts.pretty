@@ -12,6 +12,12 @@ K AVR ISP Connector
 F  ~
 $ENDCMP
 #
+$CMP WS2812B-2020
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
 $CMP ai03_Daughterboard_Connector
 D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
